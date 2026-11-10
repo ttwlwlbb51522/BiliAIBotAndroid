@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String PREFS = "biliaibot";
     private static final String KEY_URL = "server_url";
     private static final String KEY_TOKEN = "admin_token";
-    private static final String DEFAULT_URL = "http://10.0.2.2:24444";
+    private static final String DEFAULT_URL = "http://127.0.0.1:24444";
 
     private EditText serverUrl;
     private EditText adminToken;
