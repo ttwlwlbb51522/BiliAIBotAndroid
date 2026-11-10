@@ -57,7 +57,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:hint="http://192.168.1.10:24444"
+                    android:hint="http://电脑IP:24444"
                     android:inputType="textUri"
                     android:maxLines="1"
                     android:textSize="14sp" />
