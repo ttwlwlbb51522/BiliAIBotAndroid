@@ -108,3 +108,7 @@ http://10.0.2.2:24444
 ```
 
 `10.0.2.2` 是 Android 模拟器访问宿主机的固定地址；真机必须换成电脑的局域网 IP。
+
+## 许可证
+
+本项目采用 MIT License，版权所有 (c) 2026 ChaosException。详见 [LICENSE](LICENSE)。
