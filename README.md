@@ -34,10 +34,6 @@ admin.token=你的随机长令牌
 
 手机需要能够连接到电脑的公网IP。
 
-```powershell
-ipconfig
-```
-
 假设电脑 IP 是 `192.168.1.10`，App 里填写：
 
 ```text
